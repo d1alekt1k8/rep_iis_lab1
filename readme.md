@@ -61,3 +61,19 @@ cd .\mlflow\
 ```
 mlflow server --backend-store-uri sqlite:///mlruns.db
 ```
+
+
+# Результаты исследования
+
+Лучший результат показала модель на основе sklearn RFE:
+
+- В качестве средства оценки - RandomForestClassifier
+- Количество объектов оценки - 12
+- Шаг - 12
+
+Метрики лучшего прогона:
+- precision: 0.9247977623211014
+- recall: 0.925
+- f1: 0.9248309911215962
+```
+run_id = "f0f73d1cd4ff4cfba50a9acfce74ae36"
