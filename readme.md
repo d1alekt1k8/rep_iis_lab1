@@ -76,4 +76,4 @@ source start_mlflow.sh
 - recall: 0.925
 - f1: 0.9248309911215962
 ```
-run_id = "f0f73d1cd4ff4cfba50a9acfce74ae36"
+run_id = "00e2896da20a49c0b8550c616efb28bd"
