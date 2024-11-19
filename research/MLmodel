@@ -14,9 +14,9 @@ flavors:
     serialization_format: cloudpickle
     sklearn_version: 1.5.2
 mlflow_version: 2.16.0
-model_size_bytes: 4445421
-model_uuid: fe9f8b39bbe64046b8a9677c403dc890
-run_id: f0f73d1cd4ff4cfba50a9acfce74ae36
+model_size_bytes: 4472992
+model_uuid: 4dd13094652e48278f48080059be3c96
+run_id: 00e2896da20a49c0b8550c616efb28bd
 saved_input_example_info:
   artifact_path: input_example.json
   pandas_orient: split
@@ -39,4 +39,4 @@ signature:
     "required": true}, {"type": "long", "name": "wifi", "required": true}]'
   outputs: null
   params: null
-utc_time_created: '2024-11-18 20:08:32.299407'
+utc_time_created: '2024-11-19 07:52:58.040384'

@@ -54,12 +54,12 @@
 
 1. Перейти в директорию mlflow
 ```
-cd .\mlflow\
+cd mlflow
 ```
 
 2. Выполинть в терминале следующую команду
 ```
-mlflow server --backend-store-uri sqlite:///mlruns.db
+source start_mlflow.sh
 ```
 
 
