@@ -1,0 +1,6 @@
+pandas==2.2.2
+fastapi==0.115.5
+uvicorn==0.32.0
+pickle4
+scikit-learn
+cloudpickle
